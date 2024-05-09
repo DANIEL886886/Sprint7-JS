@@ -1,9 +1,51 @@
-**1. Tipăriți toate numerele pare de la 0 la 10**
+tema pentru acasa:
 
-Încercați să rezolvați această problemă cât mai eficient posibil. Luați în considerare utilizarea buclelor care vă vor permite să tastați cele mai puține caractere / comenzi (se acceptă orice abordare bazată pe bucle). Deși ați putea pur și simplu să tipăriți numerele pare, fiți creativi și încercați să le generați într-un mod în care să funcționeze indiferent de limita setată (până la 10 sau chiar până la 10.000).
+1. git checkout main
 
-Exemplu 1:
+2. git checkout -b ex1
 
-`Input: n = 10, unde n este numărul maxim până la care se va executa bucla`
+3. lucram la tema 1
 
-`Output: 0, 2, 4, 6, 8, 10`
+4. git add .
+
+5. git commit -m "tema 1 finisata"
+
+6. git push origin ex1
+
+7. deschidem github si cream un pull request din ex1 in main
+
+
+
+tema 2:
+
+1. git checkout main
+
+2. git checkout -b ex2
+
+3. lucram la tema 2
+
+4. git add .
+
+5. git commit -m "tema 2 finisata"
+
+6. git push origin ex2
+
+7. deschidem github si cream un pull request din ex2 in main
+
+
+
+
+
+corectam tema 1:
+
+1. git checkout ex1
+
+2. lucram la corectie tema1
+
+3. git add .
+
+4. git commit -m "am corectat x"
+
+5. git push origin ex1
+
+6. (optional) cream pull request daca nu exista deja
